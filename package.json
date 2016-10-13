@@ -1,13 +1,15 @@
 {
   "name": "powerbi-api-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Power BI Custom Visual API helper module for easy transition from the old API to the new version.",
   "main": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "files": [
-    "VisualsCommon"
+    "Typedefs",
+    "VisualsCommon",
+    "VisualsData"
   ],
   "repository": {
     "type": "git",
